@@ -1,0 +1,245 @@
+District,Party,Name,memberid,year,networth,income,Female,Race,Years in Military,Religion,Occupation,Marital Status,Highest Degree,Birth Year,Year First Elected ,Speaker,Majority Leader,Minority Leader,Appropriation,Finance & Tax,Rules,Agriculture,Education,Health,Judiciary,Vote Share
+1,R,"Ingram, Clay",4493,2015,87291.85,154697,0,White,0,Christian-Methodist,"Teacher, Real Estate",Married,BS,1978,2011,0,0,0,1,0,0,0,1,0,0,0.689
+2,R,"Hill, Walter Bryan ""Mike""",4595,2015,1203815,411062.79,0,Black,10,Christian,State Farm Insurance Agent,Married,MBA,1958,2014,0,0,0,0,1,1,0,0,0,0,0.653
+3,R,"Broxson, Doug",4491,2015,3402902,131050.74,0,White,0,Assembly of God,Insurance,Married,BS,1949,2011,0,0,0,0,0,0,1,0,0,0,0.999
+4,R,"Gaetz, Matt",4478,2015,387725,70171,0,White,0,Baptist,Attorney,Not Married,JD,1982,2011,0,0,0,0,2,0,0,0,0,0,1
+5,R,"Drake, Brad",4436,2015,,,0,White,0,Baptist,Marketing Executive,Not Married,BS,1975,2009,0,0,0,0,0,0,0,0,0,0,0.764
+6,R,"Trumbull, Jay",4600,2015,362224.94,83647,0,White,0,Methodist,Small Business Owner,Married,BS,1989,2015,0,0,0,0,1,0,1,0,1,0,0.689
+7,R,"Beshears, Halsey",4539,2015,365311,108934,0,White,0,Presbyterian,Small Business Owner,Married,MS,1971,2013,0,0,0,0,0,0,0,0,0,0,
+8,D,"Williams, Alan B.",4437,2015,552894.05,53687,0,Black,0,Baptist,Marketing and Business Consultant,Married,MBA,1975,2009,0,0,0,1,0,0,0,1,0,0,0.995
+9,N,"Rehwinkel Vasilinda, Michelle",4464,2015,1576334.95,231266.97,1,White,0,Catholic,Attorney/College Professor,Married,JD,1977,2009,0,0,0,0,0,0,0,1,0,1,
+10,R,"Porter, Elizabeth W.",4494,2015,,,1,White,0,Christian,Medical Billing and Consulting,Married,BS,1964,2011,0,0,0,1,0,0,0,1,0,0,0.983
+11,R,"Adkins, Janet H.",4439,2015,,,1,White,0,Baptist,Full-time Lawmaker,Married,MBA,1965,2009,0,0,0,1,0,1,0,1,0,0,0.741
+12,R,"Ray, Lake",4441,2015,,,0,White,0,Methodist,President of First Coast Manufacturers Association,Married,BS,1956,2009,0,0,0,0,0,1,0,0,0,0,0.719
+13,D,"Fullwood, Reggie",4496,2015,,,0,Black,0,Baptist,Nonprofit President/Consultant,Married,BS,1975,2011,0,0,0,0,0,0,0,1,0,0,
+14,D,"Jones, Mia L.",4440,2015,,,1,Black,0,Baptist,Special Assistant to Mayor Alvin Brown,Married,MBA,1968,2009,0,0,0,1,0,0,0,0,1,0,
+15,R,"Fant, Jay",4601,2015,,,0,White,0,Presbyterian,Chariman of a Corporation,Married,JD,1968,2015,0,0,0,0,1,0,0,0,0,1,0.999
+16,R,"McBurney, Charles",4418,2015,,,0,White,0,Presbyterian,Business Attorney,Married,JD,1957,2008,0,0,0,1,0,1,0,0,0,2,0.999
+17,R,"Renuart, Ronald ""Doc""",4442,2015,,,0,White,0,Catholic,Osteopathic Physician,Married,DO,1964,2009,0,0,0,0,0,0,0,0,1,0,0.736
+17,R,"Stevenson, Cyndi",4620,2015,,,1,White,0,Christian,CPA,Married,BBA,,2016,0,0,0,0,0,0,0,0,0,0,
+18,R,"Cummings, W. Travis",4540,2015,,,0,White,0,Christian,Business Owner-Insurance & Employee Benefits,Married,MBA,1972,2013,0,0,0,0,0,0,1,0,1,0,0.814
+19,R,"Van Zant, Charles E.",4444,2015,,,0,White,0,Baptist,Architect,Married,ThD,1943,2009,0,0,0,0,1,0,0,0,0,0,
+20,D,"Watson Jr., Clovis",4541,2015,,,0,Black,0,Christian,Retired City Manager,Not Married,MBA,1958,2013,0,0,0,0,0,1,1,0,0,0,
+21,R,"Perry, W. Keith",4497,2015,,,0,White,0,Christian,Contractor,Married,High School Diploma,1958,2011,0,0,0,0,0,0,0,1,0,0,0.582
+22,R,"Stone, Charlie",4537,2015,,,0,White,0,Christian,Business Owner-Insurance & Employee Benefits,Married,High School Diploma,1948,2013,0,0,0,0,0,0,0,0,0,1,
+23,R,"Baxley, Dennis K.",4200,2015,,,0,White,0,Southern Baptist,Funeral Director & Consultant,Married,BS,1952,2001,0,0,0,0,0,1,0,0,0,0,
+24,R,"Hutson, Travis",4542,2015,,,0,White,0,N/A,Hutson Companies Charitable Trusts,Married,BS,1984,2013,0,0,0,0,0,0,0,0,0,0,
+24,R,"Renner, Paul",4619,2015,,,0,White,0,Christian,Attorney,Married,JD,1967,2015,0,0,0,0,0,0,1,0,1,0,
+25,R,"Costello, Fred",4499,2015,,,0,White,4,Christian,Dentist,Married,DDS,1950,2011,0,0,0,0,0,1,0,0,1,0,0.594
+26,D,"Taylor, Dwayne L.",4445,2015,,,0,Black,0,N/A,Writer/Producer,Married,MPA,1967,2009,0,0,0,0,0,0,0,0,0,0,0.526
+27,R,"Santiago, David",4544,2015,,,0,Hispanic,9,Roman Catholic,Financial Manager,Married,High School Diploma,1970,2013,0,0,0,0,0,0,0,0,0,0,0.577
+28,R,"Brodeur, Jason T.",4501,2015,,,0,White,0,Christian,President/CEO of Regional Chamber of Commerce,Married,MBA,1975,2011,0,0,0,0,1,0,0,0,2,0,0.683
+29,R,"Plakon, Scott",4430,2015,,,0,White,0,Christian,Business Owner,Married,BS,1959,2009,0,0,0,0,1,0,0,0,0,1,0.568
+30,R,"Cortes, Robert ""Bob""",4598,2015,,,0,Hispanic,0,Catholic,Business Owner,Married,BS,1963,2015,0,0,0,0,1,0,0,0,0,0,0.514
+31,R,"Sullivan, Jennifer Mae",4602,2015,,,1,White,0,Christian,Student,Not Married,AA,1991,2015,0,0,0,0,1,0,0,0,0,0,
+32,R,"Metz, Larry",4498,2015,,,0,White,0,Presbyterian,Attorney,Married,JD,1955,2011,0,0,0,1,0,0,0,0,0,1,
+33,R,"O'Toole, H. Marlene",4462,2015,,,1,White,0,Catholic,"Retired IBM Executive; Take Stock in Children, Operations Manager",Married,High School Diploma,1945,2009,0,0,0,1,0,1,0,2,0,0,
+34,R,"Smith, Jimmie T.",4502,2015,,,0,White,20,Christian,"US Army, Retired",Married,G.E.D,1965,2011,0,0,0,0,0,0,0,0,0,0,
+35,R,"Ingoglia, Blaise",4603,2015,,,0,White,0,Christian,Homebuilder,Married,High School Diploma,1970,2015,0,0,0,0,0,0,0,0,0,0,0.512
+36,D,"Murphy, Amanda",4596,2015,,,1,White,0,Christian,Financial Advisor,Married,BS,1970,2014,0,0,0,0,0,0,0,0,0,0,0.544
+37,R,"Corcoran, Richard",4503,2015,,,0,White,6,Presbyterian,Attorney,Married,JD,1965,2011,0,0,0,2,0,0,0,0,0,0,
+38,R,"Burgess, Jr., Daniel Wright ""Danny""",4604,2015,,,0,White,0,Catholic,Attorney,Married,JD,1986,2015,0,0,0,0,0,0,0,0,0,0,0.6
+39,R,"Combee, Neil",4567,2015,,,0,White,0,Baptist,"Agribusiness, Real Estate Sales",Married,BS,1959,2013,0,0,0,0,0,0,1,0,0,0,0.647
+40,R,"Burton, Colleen",4616,2015,,,1,White,0,Catholic,Consultant: Strategic Planning Community Visioning,Married,BS,1958,2015,0,0,0,0,0,0,0,0,1,1,0.555
+41,R,"Wood, John",4453,2015,,,0,White,0,Episcopal,"Attorney, Realtor, CEO of John Wood Enterpises",Not Married,JD,1952,2009,0,0,0,1,0,0,0,0,0,1,0.59
+42,R,"La Rosa, Mike",4546,2015,,,0,Hispanic,0,Catholic,Real Estate Brokerage & Development,Married,BS,1982,2013,0,0,0,0,0,0,0,0,0,0,0.602
+43,D,"Cortes, John",4605,2015,,,0,Hispanic,0,Christian,Retired Corrections Officer,Married,BS,1961,2015,0,0,0,0,0,0,0,0,0,0,0.662
+44,R,"Eisnaugle, Eric",4449,2015,,,0,White,0,Christian,Attorney,Married,JD,1977,2009,0,0,0,0,0,1,0,0,0,0,0.646
+45,D,"Bracy, Randolph",4548,2015,,,0,Black,0,Baptist,Business Development Consultant,Married,MBA,1977,2013,0,0,0,0,1,0,0,0,0,0,
+46,D,"Antone, Bruce",4269,2015,,,0,Black,0,Methodist,Consultant,Married,BS,1960,2003,0,0,0,0,0,0,0,1,0,0,0.999
+47,R,"Miller, Mike",4606,2015,,,0,White,0,Catholic,Fundraising and Development,Married,MBA,1968,2015,0,0,0,0,0,0,0,0,0,0,0.519
+48,D,"Torres, Jr., Victor Manuel ""Vic""",4538,2015,,,0,Hispanic,0,Episcopal,NYC Transit Polic Detective (Ret); Marion County School Bus Driver (Ret); Lynx Bus Driver (Ret),Married,High School Diploma,1947,2013,0,0,0,0,0,0,0,1,0,0,
+49,R,"Plasencia, Rene ""Coach P""",4607,2015,,,0,White,0,Christian,Teacher,Married,BS,1973,2015,0,0,0,0,0,0,0,0,0,0,0.51
+50,R,"Goodson, Tom",4500,2015,,,0,White,0,Baptist,Road Contractor,Married,BS,1951,2011,0,0,0,0,0,0,0,0,0,0,
+51,R,"Crisafulli, Steve",4448,2015,,,0,White,0,Christian,Real Estate Broker/Agribusinessman,Married,BS,1971,2009,1,0,0,0,0,0,0,0,0,0,0.669
+52,R,"Workman, Ritch",4446,2015,,,0,White,15,Protestant,Director of Business Development of Keiser University,Married,BS,1973,2009,0,0,0,0,1,2,0,0,0,0,
+53,R,"Tobia, John",4447,2015,,,0,White,0,N/A,College Professor,,MS,1978,2009,0,0,0,0,1,0,0,0,0,0,0.557
+54,R,"Mayfield, Debbie",4456,2015,,,1,White,0,Baptist,Legislator,Widowed,High School Diploma,1956,2009,0,0,0,0,0,0,1,0,0,0,0.682
+55,R,"Pigman, Cary",4551,2015,,,0,White,24,Christian,Emergency Medicine Physician,Married,MD,1958,2013,0,0,0,0,0,0,0,0,1,0,
+56,R,"Albritton, Ben",4508,2015,,,0,White,0,Christian,Citrus Grower/Consultant and Small Business Owner,Married,BS,1968,2011,0,0,0,1,0,1,2,0,0,0,
+57,R,"Raburn, Jake",4552,2015,,,0,White,0,Southern Baptist,Agricultural Marketing/Farming,Married,BS,1985,2013,0,0,0,0,0,0,1,0,0,0,
+58,R,"Raulerson, Daniel D. ""Dan""",4553,2015,,,0,White,0,Methodist,CPA,Married,BS,1957,2013,0,0,0,0,0,0,0,1,0,0,
+59,R,"Spano, Ross",4568,2015,,,0,White,0,Christian,Attorney,Married,JD,1966,2013,0,0,0,0,0,0,0,1,0,0,0.582
+60,R,"Young, Dana D.",4507,2015,,,1,White,0,Methodist,Attorney,Married,JD,1964,2011,0,1,0,1,0,0,0,0,0,0,
+61,D,"Narain, Edwin",4608,2015,,,0,Black,0,Christian,Area Manager,Married,"MBA, JD",1976,2015,0,0,0,0,0,0,0,0,0,0,0.999
+62,D,"Cruz, Janet",4477,2015,,,1,White,0,Catholic,Optician/Healthcare Executive,Married,AA,1956,2010,0,0,0,1,0,0,0,0,1,0,
+63,R,"Harrison, Shawn",4510,2015,,,0,White,0,Methodist,Attorney,Married,JD,1965,2011,0,0,0,0,0,0,0,0,0,0,0.526
+64,R,"Grant, James ""J.W.""",4504,2015,,,0,White,0,Christian,Entrepreneur,Not Married,JD,1982,2011,0,0,0,0,0,1,0,0,0,0,0.595
+65,R,"Sprowls, Chris",4609,2015,,,0,White,0,Christian,Lawyer,Married,JD,1984,2015,0,0,0,0,0,0,0,0,1,0,0.524
+66,R,"Ahern, Larry",4505,2015,,,0,White,5,Catholic,Small Business Owner,Married,High School Diploma,1955,2011,0,0,0,0,0,0,0,0,0,0,0.57
+67,R,"Latvala, Chris",4610,2015,,,0,White,0,Christian,Vice President of a small business,Not Married,BS,1981,2015,0,0,0,0,0,0,0,1,0,0,0.531
+68,D,"Dudley, Dwight",4570,2015,,,0,White,0,Catholic,Attorney,Married,JD,1954,2013,0,0,0,0,0,0,0,0,0,1,0.53
+69,R,"Peters, Kathleen M.",4571,2015,,,1,White,0,Catholic,Public Affairs,Married,BS,1961,2013,0,0,0,0,0,0,0,0,0,0,0.577
+70,D,"Rouson, Darryl Ervin",4438,2015,,,0,Black,0,N/A,Attorney,Married,JD,1955,2009,0,0,0,1,0,0,0,0,0,0,0.797
+71,R,"Boyd, Jim",4511,2015,,,0,White,0,Christian,Insurance/Real Estate,Married,BS,1956,2011,0,0,0,1,0,1,0,0,0,0,
+72,R,"Pilon, Ray",4512,2015,,,0,White,0,St. Martha Roman Catholic Church of Sarasota,Strategic Planning Consultant/Retired Law Enforcement Officer,Married,BS,1945,2011,0,0,0,0,0,0,1,0,0,0,0.579
+73,R,"Steube, W. Gregory ""Greg""",4509,2015,,,0,White,0,Methodist,Attorney,Married,JD,1978,2011,0,0,0,1,0,0,0,0,0,0,
+74,R,"Gonzalez, Julio",4611,2015,,,0,Hispanic,0,Catholic,Orthopaedic Surgeon,Married,"JD, MD",1964,2015,0,0,0,0,0,0,1,0,0,1,0.998
+75,R,"Roberson, Kenneth L. ""Ken""",4454,2015,,,0,White,0,Methodist,Funeral Director,Divorced,BS,1943,2009,0,0,0,1,0,0,0,0,1,0,0.682
+76,R,"Rodrigues, Ray Wesley",4572,2015,,,0,Hispanic,0,Church of Christ,Budget Manager,Married,BS,1970,2013,0,0,0,0,1,0,1,0,0,1,0.677
+77,R,"Eagle, Dane",4573,2015,,,0,White,0,Christian,Commercial Real Estate Broker,Not Married,BS,1983,2013,0,0,0,0,0,0,0,0,0,0,0.977
+78,R,"Fitzenhagen, Heather",4574,2015,,,1,White,0,Episcopal,Attorney,Married,JD,1960,2013,0,0,0,0,0,0,0,0,0,0,0.998
+79,R,"Caldwell, Matt",4513,2015,,,0,White,0,Church of Christ,Real Estate Appraiser,Married,BS,1981,2011,0,0,0,1,1,1,0,0,0,0,
+80,R,"Hudson, Matt",4420,2015,,,0,White,0,Catholic,Vice President of Operations and Broker of VIP Realty Group,Married,,1966,2008,0,0,0,1,0,0,0,0,0,1,
+81,D,"Rader, Kevin",4431,2015,,,0,White,0,Jewish,Insurance Agent/Business Owner,Married,BS,1968,2009,0,0,0,1,0,0,0,0,0,0,
+82,R,"Magar, MaryLynn ""ML""",4575,2015,,,1,White,0,Catholic,Business Owner,Married,BS,1936,2013,0,0,0,0,0,0,0,0,1,0,0.613
+83,R,"Harrell, Gayle B.",4211,2015,,,1,White,0,Presbyterian,Health Information Technology Consultant ,Married,MS,1943,2001,0,0,0,0,0,0,0,0,1,1,
+84,D,"Lee, Jr., Larry",4576,2015,,,0,Black,0,Baptist,Insurance Agent,Married,BS,1953,2013,0,0,0,0,0,0,0,0,0,0,0.563
+85,R,"Rooney, Jr., Patrick Joseph",4516,2015,,,0,White,0,Catholic,"President, Palm Beach Kennel Club",Married,"MBA, JD",1964,2011,0,0,0,0,0,0,0,0,0,0,
+86,D,"Pafford, Mark S.",4435,2015,,,0,White,0,Jewish,"CEO, Florida CHAIN",Married,BS,1966,2009,0,0,1,1,0,1,0,0,0,0,0.598
+87,D,"Kerner, Dave",4577,2015,,,0,White,0,N/A,Attorney,Married,JD,1983,2013,0,0,0,0,0,0,0,0,0,1,
+88,D,"Powell, Bobby",4578,2015,,,0,Black,0,N/A,Urban and Regional Planner,Not Married,MSP,1981,2013,0,0,0,0,0,0,1,0,0,0,0.999
+89,R,"Hager, Bill",4518,2015,,,0,White,0,Presbyterian,Lawyer/Reinsurance Arbitrator,Married,"Med, JD",1947,2011,0,0,0,0,0,0,0,1,0,0,0.525
+90,D,"Berman, Lori",4517,2015,,,1,White,0,Jewish,Attorney,Married,JD,1958,2011,0,0,0,0,1,1,0,0,1,0,0.73
+91,D,"Slosberg, Irving ""Irv""",4232,2015,,,0,White,0,Jewish,"President, Slosberg Report from Israel",Married,BS,1947,2001,0,0,0,0,0,0,0,0,0,0,
+92,D,"Clarke-Reed, Gwyndolen ""Gwyn""",4432,2015,,,1,Black,0,Episcopal,Retired Educator,Not Married,MS,1940,2009,0,0,0,1,0,0,0,0,1,0,0.73
+93,R,"Moraitis, Jr., George R.",4520,2015,,,0,White,20,Presbyterian,Real Estate Attorney,Married,JD,1970,2011,0,0,0,1,1,0,0,0,0,0,0.567
+94,D,"DuBose, Bobby B.",4612,2015,,,0,Black,0,Baptist,Self-Employed,Married,BS,1971,2015,0,0,0,0,0,0,0,0,0,0,
+95,D,"Rogers, Hazelle P. ""Hazel""",4434,2015,,,1,Black,0,Christian,Real Estate Professional/Consultant,Married,BS,1952,2009,0,0,0,0,1,0,0,0,0,0,0.999
+96,D,"Jacobs, Kristin Diane",4613,2015,,,1,White,0,Methodist,Public Policy Professional Specializing in Water and Transportation,Married,BS,1959,2015,0,0,0,0,0,0,1,0,0,0,0.998
+97,D,"Moskowitz, Jared Evan",4560,2015,,,0,White,0,Jewish,Attorney,Married,JD,1980,2013,0,0,0,0,1,0,0,0,0,1,
+98,D,"Edwards, Katie A.",4566,2015,,,1,White,0,Jewish,Attorney,Not Married,JD,1981,2013,0,0,0,0,0,0,0,0,1,1,
+99,D,"Jenne, Evan",4365,2015,,,0,White,0,Episcopal,Self-Employed,Not Married,MPA,1977,2007,0,0,0,0,0,1,0,0,0,0,
+100,D,"Geller, Joseph",4614,2015,,,0,White,0,Jewish,Attorney,Married,JD,1954,2015,0,0,0,0,0,0,0,1,0,0,0.593
+101,D,"Jones, Shevrin D. ""Shev""",4559,2015,,,0,Black,0,Christian,"Research Specialist of Administrative Operations, Broward's Sheriff's Office",Married,BS,1983,2013,0,0,0,0,0,0,0,0,1,0,
+102,D,"Pritchett, Sharon",4561,2015,,,1,Black,0,Baptist,Retired Chief Investigator,Not Married,MS,1951,2013,0,0,0,0,0,1,0,0,0,0,
+103,R,"Diaz, Jr., Manny",4558,2015,,,0,Hispanic,0,Roman Catholic,College Administrator,Married,MS,1973,2013,0,0,0,0,0,0,0,0,0,0,0.582
+104,D,"Stark, Richard",4557,2015,,,0,White,0,Jewish,Insurance Broker,Married,BS,1952,2013,0,0,0,0,1,0,0,0,0,0,
+105,R,"Trujillo, Carlos",4527,2015,,,0,Hispanic,0,Roman Catholic,Attorney,Married ,JD,1983,2011,0,0,0,0,0,0,0,0,0,1,0.569
+106,R,"Passidomo, Kathleen C.",4514,2015,,,1,White,0,Roman Catholic,Attorney,Married,JD,1953,2011,0,0,0,0,0,0,0,0,0,1,
+107,D,"Watson, Barbara",4532,2015,,,1,Black,0,N/A,"Business Owner, Politician",Married,,1950,2012,0,0,0,0,0,0,0,0,0,0,
+108,D,"Campbell, Daphne D.",4522,2015,,,1,Black,0,Seventh-Day Adventist,Registered Nurse,Married,BS,1957,2011,0,0,0,0,0,0,0,0,0,0,0.869
+109,D,"Stafford, Cynthia A.",4523,2015,,,1,Black,0,Baptist,"Attorney, Adjunct College Professor",Not Married,JD,1967,2011,0,0,0,1,0,0,0,1,0,0,
+110,R,"Oliva, Jose R.",4534,2015,,,0,Hispanic,0,Catholic,Chief Executive Officer,Married,High School Diploma,1973,2012,0,0,0,1,0,1,0,0,0,0,0.687
+111,R,"Avila, Bryan",4615,2015,,,0,Hispanic,0,Roman Catholic,College Professor,Married,"MS, MPA",1984,2015,0,0,0,0,0,0,0,0,1,0,0.666
+112,D,"Rodriguez, Jose ",4563,2015,,,0,Hispanic,0,Catholic,Attorney,Married,JD,1978,2013,0,0,0,0,1,1,0,0,0,0,0.51
+113,D,"Richardson, David",4556,2015,,,0,White,0,N/A,CPA/Consultant,Not Married,MBA,1957,2013,0,0,0,1,0,1,0,0,0,0,
+114,R,"Fresen, Erik",4461,2015,,,0,White,0,Catholic,Land Use Consultant,Married,BS,1976,2009,0,0,0,1,0,0,0,1,0,0,0.527
+115,R,"Bileca, Michael",4528,2015,,,0,Hispanic,0,Baptist,Entrepreneur,Married,MBA,1970,2011,0,0,0,0,0,0,0,1,0,0,0.586
+116,R,"Diaz, Jose Felix",4526,2015,,,0,Hispanic,0,Catholic,Attorney,Married,JD,1980,2011,0,0,0,1,0,0,0,1,0,0,0.666
+117,D,"McGhee, Kionne L.",4555,2015,,,0,Black,0,Baptist,Attorney,Married,JD,1977,2013,0,0,0,0,0,0,0,0,0,0,0.769
+118,R,"Artiles, Frank",4529,2015,,,0,White,0,Christian,Public Adjuster & Appraiser/General Contractor,Married,LLM,1973,2011,0,0,0,0,1,1,0,0,0,0,0.584
+119,R,"Nu_ez, Jeanette M.",4524,2015,,,1,Hispanic,0,Christian,Healthcare,Married,MS,1972,2011,0,0,0,1,0,0,0,0,0,0,0.611
+120,R,"Raschein, Holly",4562,2015,,,1,White,0,Baptist,Healthcare Special Projects Manager,Married,BS,1980,2013,0,0,0,1,0,0,0,0,0,0,
+1,R,"Ingram, Clay",4493,2016,,,0,White,0,Christian-Methodist,"Teacher, Real Estate",Married,BS,1978,2011,0,0,0,1,0,0,0,1,0,0,
+2,R,"Hill, Walter Bryan ""Mike""",4595,2016,,,0,Black,10,Christian,State Farm Insurance Agent,Married,MBA,1958,2014,0,0,0,0,1,1,0,0,0,0,
+3,R,"Broxson, Doug",4491,2016,,,0,White,0,Assembly of God,Insurance,Married,BS,1949,2011,0,0,0,0,0,0,1,0,0,0,
+4,R,"Gaetz, Matt",4478,2016,,,0,White,0,Baptist,Attorney,Not Married,JD,1982,2011,0,0,0,0,2,0,0,0,0,0,
+5,R,"Drake, Brad",4436,2016,,,0,White,0,Baptist,Marketing Executive,Not Married,BS,1975,2009,0,0,0,0,0,0,0,0,0,0,
+6,R,"Trumbull, Jay",4600,2016,,,0,White,0,Methodist,Small Business Owner,Married,BS,1989,2015,0,0,0,0,1,0,1,0,1,0,
+7,R,"Beshears, Halsey",4539,2016,,,0,White,0,Presbyterian,Small Business Owner,Married,MS,1971,2013,0,0,0,0,0,0,0,0,0,0,
+8,D,"Williams, Alan B.",4437,2016,,,0,Black,0,Baptist,Marketing and Business Consultant,Married,MBA,1975,2009,0,0,0,1,0,0,0,1,0,0,
+9,N,"Rehwinkel Vasilinda, Michelle",4464,2016,,,1,White,0,Catholic,Attorney/College Professor,Married,JD,1977,2009,0,0,0,0,0,0,0,1,0,1,
+10,R,"Porter, Elizabeth W.",4494,2016,,,1,White,0,Christian,Medical Billing and Consulting,Married,BS,1964,2011,0,0,0,1,0,0,0,1,0,0,
+11,R,"Adkins, Janet H.",4439,2016,,,1,White,0,Baptist,Full-time Lawmaker,Married,MBA,1965,2009,0,0,0,1,0,1,0,1,0,0,
+12,R,"Ray, Lake",4441,2016,,,0,White,0,Methodist,President of First Coast Manufacturers Association,Married,BS,1956,2009,0,0,0,0,0,1,0,0,0,0,
+13,D,"Fullwood, Reggie",4496,2016,,,0,Black,0,Baptist,Nonprofit President/Consultant,Married,BS,1975,2011,0,0,0,0,0,0,0,1,0,0,
+14,D,"Jones, Mia L.",4440,2016,,,1,Black,0,Baptist,Special Assistant to Mayor Alvin Brown,Married,MBA,1968,2009,0,0,0,1,0,0,0,0,1,0,
+15,R,"Fant, Jay",4601,2016,,,0,White,0,Presbyterian,Chariman of a Corporation,Married,JD,1968,2015,0,0,0,0,1,0,0,0,0,1,
+16,R,"McBurney, Charles",4418,2016,,,0,White,0,Presbyterian,Business Attorney,Married,JD,1957,2008,0,0,0,1,0,1,0,0,0,2,
+17,R,"Renuart, Ronald ""Doc""",4442,2016,,,0,White,0,Catholic,Osteopathic Physician,Married,DO,1964,2009,0,0,0,0,0,0,0,0,1,0,
+17,R,"Stevenson, Cyndi",4620,2016,,,1,White,0,Christian,CPA,Married,BBA,,2017,0,0,0,0,0,0,0,0,0,0,
+18,R,"Cummings, W. Travis",4540,2016,,,0,White,0,Christian,Business Owner-Insurance & Employee Benefits,Married,MBA,1972,2013,0,0,0,0,0,0,1,0,1,0,
+19,R,"Van Zant, Charles E.",4444,2016,,,0,White,0,Baptist,Architect,Married,ThD,1943,2009,0,0,0,0,1,0,0,0,0,0,
+20,D,"Watson Jr., Clovis",4541,2016,,,0,Black,0,Christian,Retired City Manager,Not Married,MBA,1958,2013,0,0,0,0,0,1,1,0,0,0,
+21,R,"Perry, W. Keith",4497,2016,,,0,White,0,Christian,Contractor,Married,High School Diploma,1958,2011,0,0,0,0,0,0,0,1,0,0,
+22,R,"Stone, Charlie",4537,2016,,,0,White,0,Christian,Business Owner-Insurance & Employee Benefits,Married,High School Diploma,1948,2013,0,0,0,0,0,0,0,0,0,1,
+23,R,"Baxley, Dennis K.",4200,2016,,,0,White,0,Southern Baptist,Funeral Director & Consultant,Married,BS,1952,2001,0,0,0,0,0,1,0,0,0,0,
+24,R,"Hutson, Travis",4542,2016,,,0,White,0,N/A,Hutson Companies Charitable Trusts,Married,BS,1984,2013,0,0,0,0,0,0,0,0,0,0,
+24,R,"Renner, Paul",4619,2016,,,0,White,0,Christian,Attorney,Married,JD,1967,2015,0,0,0,0,0,0,1,0,1,0,
+25,R,"Costello, Fred",4499,2016,,,0,White,4,Christian,Dentist,Married,DDS,1950,2011,0,0,0,0,0,1,0,0,1,0,
+26,D,"Taylor, Dwayne L.",4445,2016,,,0,Black,0,N/A,Writer/Producer,Married,MPA,1967,2009,0,0,0,0,0,0,0,0,0,0,
+27,R,"Santiago, David",4544,2016,,,0,Hispanic,9,Roman Catholic,Financial Manager,Married,High School Diploma,1970,2013,0,0,0,0,0,0,0,0,0,0,
+28,R,"Brodeur, Jason T.",4501,2016,,,0,White,0,Christian,President/CEO of Regional Chamber of Commerce,Married,MBA,1975,2011,0,0,0,0,1,0,0,0,2,0,
+29,R,"Plakon, Scott",4430,2016,,,0,White,0,Christian,Business Owner,Married,BS,1959,2009,0,0,0,0,1,0,0,0,0,1,
+30,R,"Cortes, Robert ""Bob""",4598,2016,,,0,Hispanic,0,Catholic,Business Owner,Married,BS,1963,2015,0,0,0,0,1,0,0,0,0,0,
+31,R,"Sullivan, Jennifer Mae",4602,2016,,,1,White,0,Christian,Student,Not Married,AA,1991,2015,0,0,0,0,1,0,0,0,0,0,
+32,R,"Metz, Larry",4498,2016,,,0,White,0,Presbyterian,Attorney,Married,JD,1955,2011,0,0,0,1,0,0,0,0,0,1,
+33,R,"O'Toole, H. Marlene",4462,2016,,,1,White,0,Catholic,"Retired IBM Executive; Take Stock in Children, Operations Manager",Married,High School Diploma,1945,2009,0,0,0,1,0,1,0,2,0,0,
+34,R,"Smith, Jimmie T.",4502,2016,,,0,White,20,Christian,"US Army, Retired",Married,G.E.D,1965,2011,0,0,0,0,0,0,0,0,0,0,
+35,R,"Ingoglia, Blaise",4603,2016,,,0,White,0,Christian,Homebuilder,Married,High School Diploma,1970,2015,0,0,0,0,0,0,0,0,0,0,
+36,D,"Murphy, Amanda",4596,2016,,,1,White,0,Christian,Financial Advisor,Married,BS,1970,2014,0,0,0,0,0,0,0,0,0,0,
+37,R,"Corcoran, Richard",4503,2016,,,0,White,6,Presbyterian,Attorney,Married,JD,1965,2011,0,0,0,2,0,0,0,0,0,0,
+38,R,"Burgess, Jr., Daniel Wright ""Danny""",4604,2016,,,0,White,0,Catholic,Attorney,Married,JD,1986,2015,0,0,0,0,0,0,0,0,0,0,
+39,R,"Combee, Neil",4567,2016,,,0,White,0,Baptist,"Agribusiness, Real Estate Sales",Married,BS,1959,2013,0,0,0,0,0,0,1,0,0,0,
+40,R,"Burton, Colleen",4616,2016,,,1,White,0,Catholic,Consultant: Strategic Planning Community Visioning,Married,BS,1958,2015,0,0,0,0,0,0,0,0,1,1,
+41,R,"Wood, John",4453,2016,,,0,White,0,Episcopal,"Attorney, Realtor, CEO of John Wood Enterpises",Not Married,JD,1952,2009,0,0,0,1,0,0,0,0,0,1,
+42,R,"La Rosa, Mike",4546,2016,,,0,Hispanic,0,Catholic,Real Estate Brokerage & Development,Married,BS,1982,2013,0,0,0,0,0,0,0,0,0,0,
+43,D,"Cortes, John",4605,2016,,,0,Hispanic,0,Christian,Retired Corrections Officer,Married,BS,1961,2015,0,0,0,0,0,0,0,0,0,0,
+44,R,"Eisnaugle, Eric",4449,2016,,,0,White,0,Christian,Attorney,Married,JD,1977,2009,0,0,0,0,0,1,0,0,0,0,
+45,D,"Bracy, Randolph",4548,2016,,,0,Black,0,Baptist,Business Development Consultant,Married,MBA,1977,2013,0,0,0,0,1,0,0,0,0,0,
+46,D,"Antone, Bruce",4269,2016,,,0,Black,0,Methodist,Consultant,Married,BS,1960,2003,0,0,0,0,0,0,0,1,0,0,
+47,R,"Miller, Mike",4606,2016,,,0,White,0,Catholic,Fundraising and Development,Married,MBA,1968,2015,0,0,0,0,0,0,0,0,0,0,
+48,D,"Torres, Jr., Victor Manuel ""Vic""",4538,2016,,,0,Hispanic,0,Episcopal,NYC Transit Polic Detective (Ret); Marion County School Bus Driver (Ret); Lynx Bus Driver (Ret),Married,High School Diploma,1947,2013,0,0,0,0,0,0,0,1,0,0,
+49,R,"Plasencia, Rene ""Coach P""",4607,2016,,,0,White,0,Christian,Teacher,Married,BS,1973,2015,0,0,0,0,0,0,0,0,0,0,
+50,R,"Goodson, Tom",4500,2016,,,0,White,0,Baptist,Road Contractor,Married,BS,1951,2011,0,0,0,0,0,0,0,0,0,0,
+51,R,"Crisafulli, Steve",4448,2016,,,0,White,0,Christian,Real Estate Broker/Agribusinessman,Married,BS,1971,2009,1,0,0,0,0,0,0,0,0,0,
+52,R,"Workman, Ritch",4446,2016,,,0,White,16,Protestant,Director of Business Development of Keiser University,Married,BS,1973,2009,0,0,0,0,1,2,0,0,0,0,
+53,R,"Tobia, John",4447,2016,,,0,White,0,N/A,College Professor,,MS,1978,2009,0,0,0,0,1,0,0,0,0,0,
+54,R,"Mayfield, Debbie",4456,2016,,,1,White,0,Baptist,Legislator,Widowed,High School Diploma,1956,2009,0,0,0,0,0,0,1,0,0,0,
+55,R,"Pigman, Cary",4551,2016,,,0,White,24,Christian,Emergency Medicine Physician,Married,MD,1958,2013,0,0,0,0,0,0,0,0,1,0,
+56,R,"Albritton, Ben",4508,2016,,,0,White,0,Christian,Citrus Grower/Consultant and Small Business Owner,Married,BS,1968,2011,0,0,0,1,0,1,2,0,0,0,
+57,R,"Raburn, Jake",4552,2016,,,0,White,0,Southern Baptist,Agricultural Marketing/Farming,Married,BS,1985,2013,0,0,0,0,0,0,1,0,0,0,
+58,R,"Raulerson, Daniel D. ""Dan""",4553,2016,,,0,White,0,Methodist,CPA,Married,BS,1957,2013,0,0,0,0,0,0,0,1,0,0,
+59,R,"Spano, Ross",4568,2016,,,0,White,0,Christian,Attorney,Married,JD,1966,2013,0,0,0,0,0,0,0,1,0,0,
+60,R,"Young, Dana D.",4507,2016,,,1,White,0,Methodist,Attorney,Married,JD,1964,2011,0,1,0,1,0,0,0,0,0,0,
+61,D,"Narain, Edwin",4608,2016,,,0,Black,0,Christian,Area Manager,Married,"MBA, JD",1976,2015,0,0,0,0,0,0,0,0,0,0,
+62,D,"Cruz, Janet",4477,2016,,,1,White,0,Catholic,Optician/Healthcare Executive,Married,AA,1956,2010,0,0,0,1,0,0,0,0,1,0,
+63,R,"Harrison, Shawn",4510,2016,,,0,White,0,Methodist,Attorney,Married,JD,1965,2011,0,0,0,0,0,0,0,0,0,0,
+64,R,"Grant, James ""J.W.""",4504,2016,,,0,White,0,Christian,Entrepreneur,Not Married,JD,1982,2011,0,0,0,0,0,1,0,0,0,0,
+65,R,"Sprowls, Chris",4609,2016,,,0,White,0,Christian,Lawyer,Married,JD,1984,2015,0,0,0,0,0,0,0,0,1,0,
+66,R,"Ahern, Larry",4505,2016,,,0,White,5,Catholic,Small Business Owner,Married,High School Diploma,1955,2011,0,0,0,0,0,0,0,0,0,0,
+67,R,"Latvala, Chris",4610,2016,,,0,White,0,Christian,Vice President of a small business,Not Married,BS,1981,2015,0,0,0,0,0,0,0,1,0,0,
+68,D,"Dudley, Dwight",4570,2016,,,0,White,0,Catholic,Attorney,Married,JD,1954,2013,0,0,0,0,0,0,0,0,0,1,
+69,R,"Peters, Kathleen M.",4571,2016,,,1,White,0,Catholic,Public Affairs,Married,BS,1961,2013,0,0,0,0,0,0,0,0,0,0,
+70,D,"Rouson, Darryl Ervin",4438,2016,,,0,Black,0,N/A,Attorney,Married,JD,1955,2009,0,0,0,1,0,0,0,0,0,0,
+71,R,"Boyd, Jim",4511,2016,,,0,White,0,Christian,Insurance/Real Estate,Married,BS,1956,2011,0,0,0,1,0,1,0,0,0,0,
+72,R,"Pilon, Ray",4512,2016,,,0,White,0,St. Martha Roman Catholic Church of Sarasota,Strategic Planning Consultant/Retired Law Enforcement Officer,Married,BS,1945,2011,0,0,0,0,0,0,1,0,0,0,
+73,R,"Steube, W. Gregory ""Greg""",4509,2016,,,0,White,0,Methodist,Attorney,Married,JD,1978,2011,0,0,0,1,0,0,0,0,0,0,
+74,R,"Gonzalez, Julio",4611,2016,,,0,Hispanic,0,Catholic,Orthopaedic Surgeon,Married,"JD, MD",1964,2015,0,0,0,0,0,0,1,0,0,1,
+75,R,"Roberson, Kenneth L. ""Ken""",4454,2016,,,0,White,0,Methodist,Funeral Director,Divorced,BS,1943,2009,0,0,0,1,0,0,0,0,1,0,
+76,R,"Rodrigues, Ray Wesley",4572,2016,,,0,Hispanic,0,Church of Christ,Budget Manager,Married,BS,1970,2013,0,0,0,0,1,0,1,0,0,1,
+77,R,"Eagle, Dane",4573,2016,,,0,White,0,Christian,Commercial Real Estate Broker,Not Married,BS,1983,2013,0,0,0,0,0,0,0,0,0,0,
+78,R,"Fitzenhagen, Heather",4574,2016,,,1,White,0,Episcopal,Attorney,Married,JD,1960,2013,0,0,0,0,0,0,0,0,0,0,
+79,R,"Caldwell, Matt",4513,2016,,,0,White,0,Church of Christ,Real Estate Appraiser,Married,BS,1981,2011,0,0,0,1,1,1,0,0,0,0,
+80,R,"Hudson, Matt",4420,2016,,,0,White,0,Catholic,Vice President of Operations and Broker of VIP Realty Group,Married,,1966,2008,0,0,0,1,0,0,0,0,0,1,
+81,D,"Rader, Kevin",4431,2016,,,0,White,0,Jewish,Insurance Agent/Business Owner,Married,BS,1968,2009,0,0,0,1,0,0,0,0,0,0,
+82,R,"Magar, MaryLynn ""ML""",4575,2016,,,1,White,0,Catholic,Business Owner,Married,BS,1936,2013,0,0,0,0,0,0,0,0,1,0,
+83,R,"Harrell, Gayle B.",4211,2016,,,1,White,0,Presbyterian,Health Information Technology Consultant ,Married,MS,1943,2001,0,0,0,0,0,0,0,0,1,1,
+84,D,"Lee, Jr., Larry",4576,2016,,,0,Black,0,Baptist,Insurance Agent,Married,BS,1953,2013,0,0,0,0,0,0,0,0,0,0,
+85,R,"Rooney, Jr., Patrick Joseph",4516,2016,,,0,White,0,Catholic,"President, Palm Beach Kennel Club",Married,"MBA, JD",1964,2011,0,0,0,0,0,0,0,0,0,0,
+86,D,"Pafford, Mark S.",4435,2016,,,0,White,0,Jewish,"CEO, Florida CHAIN",Married,BS,1966,2009,0,0,1,1,0,1,0,0,0,0,
+87,D,"Kerner, Dave",4577,2016,,,0,White,0,N/A,Attorney,Married,JD,1983,2013,0,0,0,0,0,0,0,0,0,1,
+88,D,"Powell, Bobby",4578,2016,,,0,Black,0,N/A,Urban and Regional Planner,Not Married,MSP,1981,2013,0,0,0,0,0,0,1,0,0,0,
+89,R,"Hager, Bill",4518,2016,,,0,White,0,Presbyterian,Lawyer/Reinsurance Arbitrator,Married,"Med, JD",1947,2011,0,0,0,0,0,0,0,1,0,0,
+90,D,"Berman, Lori",4517,2016,,,1,White,0,Jewish,Attorney,Married,JD,1958,2011,0,0,0,0,1,1,0,0,1,0,
+91,D,"Slosberg, Irving ""Irv""",4232,2016,,,0,White,0,Jewish,"President, Slosberg Report from Israel",Married,BS,1947,2001,0,0,0,0,0,0,0,0,0,0,
+92,D,"Clarke-Reed, Gwyndolen ""Gwyn""",4432,2016,,,1,Black,0,Episcopal,Retired Educator,Not Married,MS,1940,2009,0,0,0,1,0,0,0,0,1,0,
+93,R,"Moraitis, Jr., George R.",4520,2016,,,0,White,20,Presbyterian,Real Estate Attorney,Married,JD,1970,2011,0,0,0,1,1,0,0,0,0,0,
+94,D,"DuBose, Bobby B.",4612,2016,,,0,Black,0,Baptist,Self-Employed,Married,BS,1971,2015,0,0,0,0,0,0,0,0,0,0,
+95,D,"Rogers, Hazelle P. ""Hazel""",4434,2016,,,1,Black,0,Christian,Real Estate Professional/Consultant,Married,BS,1952,2009,0,0,0,0,1,0,0,0,0,0,
+96,D,"Jacobs, Kristin Diane",4613,2016,,,1,White,0,Methodist,Public Policy Professional Specializing in Water and Transportation,Married,BS,1959,2015,0,0,0,0,0,0,1,0,0,0,
+97,D,"Moskowitz, Jared Evan",4560,2016,,,0,White,0,Jewish,Attorney,Married,JD,1980,2013,0,0,0,0,1,0,0,0,0,1,
+98,D,"Edwards, Katie A.",4566,2016,,,1,White,0,Jewish,Attorney,Not Married,JD,1981,2013,0,0,0,0,0,0,0,0,1,1,
+99,D,"Jenne, Evan",4365,2016,,,0,White,0,Episcopal,Self-Employed,Not Married,MPA,1977,2007,0,0,0,0,0,1,0,0,0,0,
+100,D,"Geller, Joseph",4614,2016,,,0,White,0,Jewish,Attorney,Married,JD,1954,2015,0,0,0,0,0,0,0,1,0,0,
+101,D,"Jones, Shevrin D. ""Shev""",4559,2016,,,0,Black,0,Christian,"Research Specialist of Administrative Operations, Broward's Sheriff's Office",Married,BS,1983,2013,0,0,0,0,0,0,0,0,1,0,
+102,D,"Pritchett, Sharon",4561,2016,,,1,Black,0,Baptist,Retired Chief Investigator,Not Married,MS,1951,2013,0,0,0,0,0,1,0,0,0,0,
+103,R,"Diaz, Jr., Manny",4558,2016,,,0,Hispanic,0,Roman Catholic,College Administrator,Married,MS,1973,2013,0,0,0,0,0,0,0,0,0,0,
+104,D,"Stark, Richard",4557,2016,,,0,White,0,Jewish,Insurance Broker,Married,BS,1952,2013,0,0,0,0,1,0,0,0,0,0,
+105,R,"Trujillo, Carlos",4527,2016,,,0,Hispanic,0,Roman Catholic,Attorney,Married ,JD,1983,2011,0,0,0,0,0,0,0,0,0,1,
+106,R,"Passidomo, Kathleen C.",4514,2016,,,1,White,0,Roman Catholic,Attorney,Married,JD,1953,2011,0,0,0,0,0,0,0,0,0,1,
+107,D,"Watson, Barbara",4532,2016,,,1,Black,0,N/A,"Business Owner, Politician",Married,,1950,2012,0,0,0,0,0,0,0,0,0,0,
+108,D,"Campbell, Daphne D.",4522,2016,,,1,Black,0,Seventh-Day Adventist,Registered Nurse,Married,BS,1957,2011,0,0,0,0,0,0,0,0,0,0,
+109,D,"Stafford, Cynthia A.",4523,2016,,,1,Black,0,Baptist,"Attorney, Adjunct College Professor",Not Married,JD,1967,2011,0,0,0,1,0,0,0,1,0,0,
+110,R,"Oliva, Jose R.",4534,2016,,,0,Hispanic,0,Catholic,Chief Executive Officer,Married,High School Diploma,1973,2012,0,0,0,1,0,1,0,0,0,0,
+111,R,"Avila, Bryan",4615,2016,,,0,Hispanic,0,Roman Catholic,College Professor,Married,"MS, MPA",1984,2015,0,0,0,0,0,0,0,0,1,0,
+112,D,"Rodriguez, Jose Javier",4563,2016,,,0,Hispanic,0,Catholic,Attorney,Married,JD,1978,2013,0,0,0,0,1,1,0,0,0,0,
+113,D,"Richardson, David",4556,2016,,,0,White,0,N/A,CPA/Consultant,Not Married,MBA,1957,2013,0,0,0,1,0,1,0,0,0,0,
+114,R,"Fresen, Erik",4461,2016,,,0,White,0,Catholic,Land Use Consultant,Married,BS,1976,2009,0,0,0,1,0,0,0,1,0,0,
+115,R,"Bileca, Michael",4528,2016,,,0,Hispanic,0,Baptist,Entrepreneur,Married,MBA,1970,2011,0,0,0,0,0,0,0,1,0,0,
+116,R,"Diaz, Jose Felix",4526,2016,,,0,Hispanic,0,Catholic,Attorney,Married,JD,1980,2011,0,0,0,1,0,0,0,1,0,0,
+117,D,"McGhee, Kionne L.",4555,2016,,,0,Black,0,Baptist,Attorney,Married,JD,1977,2013,0,0,0,0,0,0,0,0,0,0,
+118,R,"Artiles, Frank",4529,2016,,,0,White,0,Christian,Public Adjuster & Appraiser/General Contractor,Married,LLM,1973,2011,0,0,0,0,1,1,0,0,0,0,
+119,R,"Nunez, Jeanette M.",4524,2016,,,1,Hispanic,0,Christian,Healthcare,Married,MS,1972,2011,0,0,0,1,0,0,0,0,0,0,
+120,R,"Raschein, Holly",4562,2016,,,1,White,0,Baptist,Healthcare Special Projects Manager,Married,BS,1980,2013,0,0,0,1,0,0,0,0,0,0,
